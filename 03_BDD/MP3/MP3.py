@@ -56,6 +56,6 @@ col.insert_one(dato)
 
 #corroborar informacion
 #numero de feriados totales
-#print("\nRecueto de registros: ")
+#print("\nRecuento de registros: ")
 #for j, feriado in enumerate(col.find(),start=1):
 #    print(f"N°{j}: {feriado['nombre']}, {feriado['fecha']}, {feriado['comentarios']}")
